@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Check out [my embedded site](https://lamvatria.github.io/home/)!
+Check out [our site](https://lamvatria.github.io/home/)!
 
 
 <!--
