@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<div>
-<iframe src="https://lamvatria.github.io/home/" title="Lamvatria"></iframe>
-</div>
+
+Check out [my embedded site](https://lamvatria.github.io/home/)!
+
 
 <!--
 
